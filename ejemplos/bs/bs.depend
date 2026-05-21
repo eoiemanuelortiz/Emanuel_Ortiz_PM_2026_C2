@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1779396196 source:c:\users\eoiem\onedrive\documentos\itla_docs\emanuel_ortiz_pm_2026_c2-main\ejemplos\bs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
